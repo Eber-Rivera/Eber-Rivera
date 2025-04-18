@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Eber Rivera
 
-<!--
-**Eber-Rivera/Eber-Rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Analista de Datos en formación** | Explorando el mundo a través de los datos
 
-Here are some ideas to get you started:
+🧠 Soy un apasionado de los datos autodidacta desarrollando habilidades en Python, SQL y visualización de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades y herramientas
+
+**Lenguajes:** Python, SQL  
+**Librerías:** Pandas, NumPy, Matplotlib, Seaborn  
+**Visualización:** Power BI  
+**Bases de datos:** MySQL, SQLite  
+**Otros:**  GitHub, Excel  
+
+## 📚 En constante aprendizaje
+Actualmente me estoy enfocando en:
+
+Mejorar mi lógica de análisis con SQL  
+Modelado de series temporales (ARIMA)  
+Visualización efectiva y storytelling con datos  
+Profundizar en modelos predictivos y machine learning  
+
+Aunque todavía no tengo experiencia laboral formal me encuentro desarrollando proyectos personales que pronto compartiré aquí como:
+
+Salario mínimo en México  
+Tendencias en el sistema bancario mexicano  
+
+Muy pronto estarán disponibles en este perfil. ¡Estén atentos!
+
+## 🤝 Conectemos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebriveradata/)
+- 📫 Correo: e.rivera.data@proton.me
+
+Gracias por pasar por aquí. ¡Seguimos aprendiendo! 🚀
